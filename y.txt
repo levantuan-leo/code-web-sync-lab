@@ -6,3 +6,5 @@ APP TEST CASE C
 APP CASE C2
 
 APP CASE C3
+
+APP CASE BD remote on y
