@@ -1,4 +1,4 @@
 LOCAL EDIT D on x
-x line 1
+x line 1 REMOTE CHANGE G
 x line 2
 x line 3
