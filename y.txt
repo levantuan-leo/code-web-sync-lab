@@ -3,3 +3,4 @@ y line 2 REMOTE CHANGE D
 y line 3
 LOCAL EDIT E on y
 APP TEST CASE C
+APP CASE C2
